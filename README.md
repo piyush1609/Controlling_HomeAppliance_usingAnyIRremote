@@ -6,3 +6,6 @@ Thank you,
 Regards 
 Piyush Gupta
 
+Tinkercad Project link: https://www.tinkercad.com/things/9qyx2337g4A-smarthome-1-final
+
+![IRremote](https://user-images.githubusercontent.com/60108793/111059883-c9d89880-84be-11eb-8fe6-20e60ef512dc.PNG)
